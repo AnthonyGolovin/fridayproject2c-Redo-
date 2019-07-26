@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
-using RepeatWordCounter;
+using RepeatedWordCounter;
+
 
 namespace RepeatedWordCounterUI
 {
@@ -15,7 +16,7 @@ namespace RepeatedWordCounterUI
          string UserInputWord = Console.ReadLine();
          RepeatCounter newRepeatCounter = new ReapeatCounter();
          
-         
+
   }
  }
 }

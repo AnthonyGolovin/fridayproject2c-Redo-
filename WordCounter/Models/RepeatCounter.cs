@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using RepeatedWordCounter;
+using RepeatedWordCounterUI;
 
 namespace RepeatedWordCounter
 {
