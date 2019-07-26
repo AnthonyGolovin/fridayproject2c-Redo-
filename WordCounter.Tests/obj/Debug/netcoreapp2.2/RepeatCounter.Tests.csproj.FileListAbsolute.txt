@@ -1,0 +1,4 @@
+C:\Users\AGOLO\Desktop\WordCounter.Solution2\WordCounter.Tests\obj\Debug\netcoreapp2.2\RepeatCounter.Tests.csprojAssemblyReference.cache
+C:\Users\AGOLO\Desktop\WordCounter.Solution2\WordCounter.Tests\obj\Debug\netcoreapp2.2\RepeatCounter.Tests.csproj.CoreCompileInputs.cache
+C:\Users\AGOLO\Desktop\WordCounter.Solution2\WordCounter.Tests\obj\Debug\netcoreapp2.2\RepeatCounter.Tests.AssemblyInfoInputs.cache
+C:\Users\AGOLO\Desktop\WordCounter.Solution2\WordCounter.Tests\obj\Debug\netcoreapp2.2\RepeatCounter.Tests.AssemblyInfo.cs
