@@ -8,16 +8,21 @@ namespace RepeatedWordCounter
   {
     // string UserInputSentence;
     // string UserInputWord;
-    public UserSentence(string UserInputSentence, string UserInputWord)//This function will be finding the duplicates.
+    public static int total;
+    public int UserSentence(string UserInputSentence, string UserInputWord)//This function will be finding the duplicates.
     {
     string[] inputSplit = UserInputSentence.Split(" ");
 
-    for (string i = 0; i < inputSplit.Length; i++)
+    for(int i = 0; i < inputSplit.Length; i++)
     {
-      
+      if (inputSplit[i] == UserInputWord)
+      {
+        total += 1;
+      } 
+
+       
     }
-
-
+      return total;
     }
      
   }

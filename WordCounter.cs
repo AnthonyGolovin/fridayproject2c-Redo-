@@ -11,13 +11,13 @@ namespace RepeatedWordCounterUI
     //     //  List<UserInput> UserInputList = new List<UserInput>();
     //     //  AddUserInput(UserInputList);
          
-    //      Console.WriteLine("Enter A sentence");
-    //      string UserInputSentence = Console.ReadLine();
+         Console.WriteLine("Enter A sentence");
+         string UserInputSentence = Console.ReadLine();
         
 
 
-    //      Console.WriteLine("Enter a word");
-    //      string UserInputWord = Console.ReadLine();
+         Console.WriteLine("Enter a word");
+         string UserInputWord = Console.ReadLine();
 
     //     // UserInput newUserInput = new UserInput();
     //     // UserInputList.add(newUserInput);
