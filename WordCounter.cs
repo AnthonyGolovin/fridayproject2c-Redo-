@@ -15,7 +15,8 @@ namespace RepeatedWordCounterUI
          Console.WriteLine("Enter a word");
          string UserInputWord = Console.ReadLine();
          RepeatCounter newRepeatCounter = new RepeatCounter();
-         
+         int result = newRepeatCounter.UserSentence(UserInputSentence, UserInputWord); 
+         Console.WriteLine(result);
 
   }
  }
