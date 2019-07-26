@@ -1,0 +1,9 @@
+C:\Users\AGOLO\Desktop\WordCounter.Solution2\WordCounter\bin\Debug\netcoreapp2.2\RepeatWordCounter.deps.json
+C:\Users\AGOLO\Desktop\WordCounter.Solution2\WordCounter\bin\Debug\netcoreapp2.2\RepeatWordCounter.dll
+C:\Users\AGOLO\Desktop\WordCounter.Solution2\WordCounter\bin\Debug\netcoreapp2.2\RepeatWordCounter.pdb
+C:\Users\AGOLO\Desktop\WordCounter.Solution2\WordCounter\obj\Debug\netcoreapp2.2\RepeatWordCounter.csprojAssemblyReference.cache
+C:\Users\AGOLO\Desktop\WordCounter.Solution2\WordCounter\obj\Debug\netcoreapp2.2\RepeatWordCounter.csproj.CoreCompileInputs.cache
+C:\Users\AGOLO\Desktop\WordCounter.Solution2\WordCounter\obj\Debug\netcoreapp2.2\RepeatWordCounter.AssemblyInfoInputs.cache
+C:\Users\AGOLO\Desktop\WordCounter.Solution2\WordCounter\obj\Debug\netcoreapp2.2\RepeatWordCounter.AssemblyInfo.cs
+C:\Users\AGOLO\Desktop\WordCounter.Solution2\WordCounter\obj\Debug\netcoreapp2.2\RepeatWordCounter.dll
+C:\Users\AGOLO\Desktop\WordCounter.Solution2\WordCounter\obj\Debug\netcoreapp2.2\RepeatWordCounter.pdb
